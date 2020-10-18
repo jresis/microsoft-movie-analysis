@@ -1,2 +1,2 @@
 # microsoft-movie-analysis
-Flatiron project (Mark Patterson and Joe Resis)
+Explanations for the Microsoft movie project ...
